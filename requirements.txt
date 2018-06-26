@@ -1,0 +1,9 @@
+intermine # Only one really necesary for using Intermine's web services with Python.
+
+
+# some other favorites in the Python / Biological realms
+matplotlib
+pandas
+numpy
+seaborn
+biopython
