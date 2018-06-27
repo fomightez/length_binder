@@ -14,7 +14,7 @@ The sources for protein length data:
 
 - *Saccharomyces cerevisiae* S288C (yeast) - At the time of running the code it is interactively collected from YeastMine using Intermine's webservice to retrieve length of all proteins, which is based on [this template](https://yeastmine.yeastgenome.org/yeastmine/template.do?name=Organism_Protein&scope=all).
 
-![Intermine](https://raw.githubusercontent.com/intermine/design-materials/master/logos/intermine/InterMine.svg)
+![Intermine](https://github.com/intermine/design-materials/blob/master/logos/intermine/intermine-300x37.png?raw=true)
 
 - Arabidopsis thaliana (thale cress) - the repo includes a file obtained June 2018 from [Genome Annotation at TAIR](https://www.arabidopsis.org/portals/genAnnotation/gene_structural_annotation/annotation_data.jsp). Specifically, if you follow the link for [the TAIR ftp site](ftp://ftp.arabidopsis.org/home/tair/Genes/TAIR9_genome_release/) from the text under 'Data availability', it leads to page that features [TAIR9_sequences](ftp://ftp.arabidopsis.org/home/tair/Genes/TAIR9_genome_release/) among the list that you can click on to get to a page where you can download [TAIR9_pep_20090619](ftp://ftp.arabidopsis.org/home/tair/Genes/TAIR9_genome_release/TAIR9_sequences/TAIR9_pep_20090619).
 
