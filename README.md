@@ -3,7 +3,7 @@
 # length_binder
 Use Jupyter environment to look at protein length for various organisms. Served via Binder system.
 
-Click the `launch binder` badge anywhere on this page to launch an active Jupyter session where the length data is plotted.
+Click the `launch binder` badge anywhere on this page to launch the active Jupyter environment.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/length_binder/master?filepath=index.ipynb)
 
